@@ -4,7 +4,7 @@
  *
  * sAn open source application development framework for PHP
  *
- * Tishis content is released under the MIT License (MIT)
+ * Tsishis content is released under the MIT License (MIT)
  *
  * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
  *
